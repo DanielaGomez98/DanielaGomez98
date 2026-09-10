@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniela Gómez Ayalde
 
-AI Specialist · Generative AI Engineer · Data Scientist
+**AI Specialist · Generative AI Engineer · Data Scientist**
 
 I build intelligent systems that transform complex and unstructured data into actionable knowledge, helping organizations improve decision-making, automate workflows, and make information more accessible.
 
